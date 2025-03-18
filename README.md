@@ -660,9 +660,6 @@ Steinmetz, N.A., Zatka-Haas, P., Carandini, M. et al. Distributed coding of choi
 
 This project is talked with chatGPT with link: https://chatgpt.com/share/67d8b19d-c898-800c-ac53-567e4c190782
 
-```{r}
-rmarkdown::pandoc_version()
-```
 
 
 
